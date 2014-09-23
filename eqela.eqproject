@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# MacoyFirstApp
+#
+
+projectname: MacoyFirstApp
+vendorid: com.sixmith
+mainmodule: com.sixmith.macoyfirstapp
